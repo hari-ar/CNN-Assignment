@@ -23,7 +23,6 @@
  
 ## Conclusions
 - The model built has a training accuracy of around 90% and validation accuracy of around 70%.
-- 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
